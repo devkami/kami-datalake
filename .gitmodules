@@ -1,0 +1,6 @@
+[submodule "services/metabase"]
+	path = services/metabase
+	url = https://github.com/devkami/kami-datalake-metabase.git
+[submodule "services/traefik"]
+	path = services/traefik
+	url = https://github.com/devkami/kami-datalake-traefik.git
