@@ -25,7 +25,6 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
-- [Usage](#usage)
 - [Built Using](#built_using)
 - [Version Tracking](#version_tracking)
 - [Contributing](#contributing)
@@ -36,10 +35,9 @@
 
 ## 🧐 About <a name = "about"></a>
 
-
 Kami-Datalake has evolved into a versatile toolkit, comprised of bash scripts that function both as a Command-Line Interface (CLI) and a user-friendly interface. This innovative approach simplifies the management of infrastructure required to build and maintain a data lake. It integrates [Metabase](https://www.metabase.com/) for data visualization, [Apache Hop](https://hop.apache.org/) for data engineering, and utilizes [AWS Athena](https://aws.amazon.com/athena/) alongside [AWS S3](https://aws.amazon.com/s3/) buckets with [Parquet](https://parquet.apache.org/) files as the backend database. Additionally, [Traefik](https://traefik.io/traefik/) is employed as an HTTPS server, providing secure and efficient routing for all services within the platform. All services are containerized using [Docker](https://docker.com/), making the project a comprehensive docker container integrator that can be easily extended and adapted for various purposes. This toolset is designed with a focus on flexibility, allowing users to efficiently orchestrate the diverse components needed for a comprehensive data lake solution.
 
-## 🏁 Getting Started
+## 🏁 Getting Started <a name = "getting_started"></a>
 
 Ensure you have the necessary tools installed on your system before you begin. The setup process will verify the installation of Docker, Docker Compose, and other prerequisites. It will automatically prompt you for the installation of simpler dependencies and guide you through the setup of more complex ones.
 
