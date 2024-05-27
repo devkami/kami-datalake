@@ -11,3 +11,9 @@
 ## Hotfixes
 
 - ...
+
+## Drivers JDBC
+- [x] Instalar hop server no EC2 sem docker
+- [x] Testar bkp do metabase
+- [x] Include drivers jdbc on server direct upload drivers or set the URI for the drivers
+- [x] Use env vars to all setttings on docker compose file'
