@@ -10,3 +10,6 @@
 [submodule "services/databeauty"]
 	path = services/databeauty
 	url = https://github.com/devkami/kami-datalake-databeauty.git
+[submodule "etl"]
+	path = etl
+	url = https://github.com/devkami/kami-datalake-etl.git

@@ -3,4 +3,3 @@ acme/
 metabase-data/
 *.log
 backup/
-services/hop
