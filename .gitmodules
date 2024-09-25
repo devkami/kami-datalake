@@ -4,3 +4,6 @@
 [submodule "services/traefik"]
 	path = services/traefik
 	url = https://github.com/devkami/kami-datalake-traefik.git
+[submodule "services/jenkins-project"]
+	path = services/jenkins-project
+	url = https://github.com/devkami/kami-datalake-jenkins.git
