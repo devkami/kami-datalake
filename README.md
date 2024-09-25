@@ -140,11 +140,18 @@ Choosing between CLI and UI depends on your preference for direct commands or gr
 
 ## 📈 Version Control <a name = "versioning"></a>
 
-### latest: [0.1.0](./FEATURES.md#0_1_0)
+### latest: [0.4.1](./FEATURES.md#0_4_1)
+
+- **Jenkins**: Adiciona automação CI/CD usando Jenkins.
+- **DataBeauty**: Dashboard interativo utilizando Streamlit.
+- **ETL**: Pipelines e workflows utilizando Apache Hop.
+- **Traefik**: Correção do bug de certificado SSL.
 
 ### [Features](./FEATURES.md)
 
 ### [Hotfixes](./HOTFIXES.md)
+
+### [Bugfixes](./BUGFIXES.md)
 
 ## 🤝 Contributing <a name = "contributing"></a>
 
