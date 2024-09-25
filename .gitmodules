@@ -7,3 +7,6 @@
 [submodule "services/jenkins-project"]
 	path = services/jenkins-project
 	url = https://github.com/devkami/kami-datalake-jenkins.git
+[submodule "services/databeauty"]
+	path = services/databeauty
+	url = https://github.com/devkami/kami-datalake-databeauty.git
